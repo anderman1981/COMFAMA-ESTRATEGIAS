@@ -1,0 +1,6 @@
+{
+  "name": "Generador de Matriz DOFA",
+  "description": "Aplicación interactiva y 100% local en el navegador para diseñar, completar y descargar matrices DOFA, planes estratégicos CAME, casos de carrera profesional (SMART) y workbooks de KPI de Resultado en PDF de alta definición.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
